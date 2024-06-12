@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "284162798075",
+    "firebase_url": "https://huellipetsapp-default-rtdb.firebaseio.com",
+    "project_id": "huellipetsapp",
+    "storage_bucket": "huellipetsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284162798075:android:beb01d0e4972ed1cdb5b5e",
+        "android_client_info": {
+          "package_name": "com.example.huellipets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-03OAK_X7HRV_fac-tVsrFuMQWR2uPh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

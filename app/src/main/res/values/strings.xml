@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HuelliPets</string>
+    <string name="intro_title"><font color="#000000">Bienvenidos a HelliPets</font> \n<font color="#008b86">Juguetes, Accesorios y Comida</font> \n<font color="#000000">Para tu Mascota</font></string>
+    <string name="intro_text">Busca todos los productos para tu mascota en un solo lugar!</string>
+    <string name="intro_signin">Ya tienes una cuenta? Ingresa Aquí<font color="#008b86"> Ingresar</font></string>
+    <string name="about_title">Sobre Huellipets</string>
+    <string name="about_text">
+        Huellipet’s es una tienda de mascotas ubicada en la Avenida Germán Aguirre 600, San Martín de Porres, 15103, Lima, Perú. Nos enorgullece ser un lugar donde los amantes de las mascotas pueden encontrar una amplia variedad de productos para sus compañeros peludos.
+        Nuestra misión es proporcionar a nuestros clientes productos de alta calidad para sus mascotas. Ofrecemos una variedad de accesorios, juguetes, camas cómodas y alimentos nutritivos. Nos esforzamos por mantener a tus mascotas limpias, saludables y felices.
+        En Huellipet’s, entendemos que las mascotas son parte de la familia. Por eso, nos comprometemos a ofrecer productos que ayuden a nuestros clientes a cuidar de sus mascotas de la mejor manera posible.
+        Además de nuestros productos, también nos enorgullece ofrecer un excelente servicio al cliente. Nuestro personal amable y conocedor está siempre dispuesto a ayudar a los clientes a encontrar exactamente lo que necesitan para sus mascotas.
+        Estamos abiertos de lunes a domingo de 09:00 a 21:00, y siempre estamos listos para ayudarte a encontrar lo que necesitas para tu mascota. Si tienes alguna pregunta o necesitas ayuda para encontrar un producto, no dudes en llamarnos al 989 924 544.</string>
+</resources>
